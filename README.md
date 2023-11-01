@@ -56,6 +56,3 @@ Feel free to use the provided code and analysis to enhance your business strateg
 
 For a detailed step-by-step guide on how to run the analysis, please refer to the code in this repository.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
